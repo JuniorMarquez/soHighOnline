@@ -211,7 +211,7 @@ margin: 0 auto;
 
 h1 {
 font-family: 'Oswald', sans-serif;
-font-size: 90px;
+font-size: 40px;
 font-weight: 700;
 line-height: .9;
 letter-spacing: -0.04em;
@@ -287,19 +287,19 @@ text-transform: uppercase;
 
 h6 {
 font-family: 'Oswald', sans-serif;
-font-size: 23px;
+font-size: 83px;
 font-weight: 400;
 line-height: 1;
 letter-spacing: -0.04em;
 color: #000;
 margin: 0 auto;
 text-align: center;
-text-transform: uppercase;
--webkit-transform: rotate(60deg);
+/*text-transform: uppercase;*/
+/*-webkit-transform: rotate(60deg);
    -moz-transform: rotate(60deg);
     -ms-transform: rotate(60deg);
      -o-transform: rotate(60deg);
-        transform: rotate(60deg);
+        transform: rotate(60deg);*/
 -webkit-transform-origin: center;
    -moz-transform-origin: center;
     -ms-transform-origin: center;
@@ -316,11 +316,11 @@ margin: 20px auto 40px auto;
 position: relative;
 margin: 0 auto;
 text-align: center;
--webkit-transform: rotate(-30deg);
+/*-webkit-transform: rotate(-30deg);
    -moz-transform: rotate(-30deg);
     -ms-transform: rotate(-30deg);
      -o-transform: rotate(-30deg);
-        transform: rotate(-30deg);
+        transform: rotate(-30deg);*/
 -webkit-transform-origin: center;
    -moz-transform-origin: center;
     -ms-transform-origin: center;

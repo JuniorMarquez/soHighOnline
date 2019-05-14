@@ -154,8 +154,8 @@
             animationIn: "fadeInLeft", // css class for entrace animation
             animationOut: "fadeOutRight", // css class for exit animation
             speed: 4000, // delay in milliseconds between two words
-            words: ['Disfrute al máximo<br><span class="highlighter">...</span>', '... las ventajas que ofrece<br><span class="highlighter">la nube ...</span>',
-                    '...con nuestras soluciones<br><span class="highlighter">CLOUD COMPUTING</span>'
+            words: ['dApps<br><span class="highlighter">Blockchain</span>', 'Native Apps<br><span class="highlighter">Android & IOS</span>',
+                    'cloud<br><span class="highlighter"> COMPUTING</span>'
                 ]
                 // Array of words, it may contain HTML values
         });
